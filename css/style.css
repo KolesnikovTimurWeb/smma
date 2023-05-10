@@ -130,6 +130,7 @@ input {
    gap: 20px;
 }
 .header-item{
+   text-align: center;
    padding: 15px;
    background: #FFFFFF;
    box-shadow: 8.00289px 8.00289px 125.313px rgba(0, 0, 0, 0.11);
