@@ -238,7 +238,9 @@ input {
    transition: .3s ease-in-out;
 }
 
-
+.profocian {
+   margin-top: 20px;
+}
 .profocian-container{
    display: flex;
    flex-direction: column;
